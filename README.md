@@ -1,1 +1,1 @@
-#  Small Application Using OSGI Framework 
+#  SMA
